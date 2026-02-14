@@ -29,7 +29,7 @@ A modern and elegant web application to download music from YouTube as high-qual
 ### 🔗 Powerful Download Capabilities
 - **Direct URL**: Paste any YouTube link (videos, shorts, music).
 - **Full Playlists**: Download entire playlists or select specific songs.
-- **Smart Mix Detection**: Identifies non-downloadable "Mix" playlists and warns the user clearly.
+- **Smart Mix Detection**: Identifies non-downloadable "Mix" playlists and warns the user clearly (cannot download).
 - **Audio Preview**: Listen to a snippet before downloading (Music note icon 🎵).
 - **Quality Selection**: Choose your preferred audio quality (128kbps, 192kbps, 320kbps).
 - **Batch Processing**: Download multiple selected songs as a single ZIP file.
