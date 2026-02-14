@@ -243,5 +243,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 <p align="center">
-  Made with ❤️ using Python and Flask
+  Made with ❤️ using Python and Flask (and AntiGravity🤖)
 </p>
