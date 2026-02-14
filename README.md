@@ -9,7 +9,7 @@ A modern and elegant web application to download music from YouTube as high-qual
 ## ✨ Features
 
 ### 🌍 Global Support
-- **Multi-language Interface**: Fully translated into 6 languages:
+- **Multi-language Interface**: Partially translated into 6 languages:
   - 🇪🇸 Spanish (Español)
   - 🇬🇧 English (English)
   - 🇫🇷 French (Français)
